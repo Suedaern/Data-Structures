@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\sueda\source\repos\ll\ll\Source.c(25): warning C4716: 'add': must return a value
+C:\Users\sueda\source\repos\ll\ll\Source.c(39): error C4700: uninitialized local variable 'root' used
